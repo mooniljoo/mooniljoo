@@ -1,5 +1,6 @@
 ### Hello👋 My name is Iljoo in Seoul, Republic of Korea.<br/>
-[![HitCount](http://hits.dwyl.com/mooniljoo/https://githubcom/mooniljoo/Python_Data_Structure.svg)](http://hits.dwyl.com/mooniljoo/https://githubcom/mooniljoo/Python_Data_Structure)
+[![DataStructure](http://hits.dwyl.com/mooniljoo/https://githubcom/mooniljoo/Python_Data_Structure.svg)](http://hits.dwyl.com/mooniljoo/https://githubcom/mooniljoo/Python_Data_Structure)
+[![UpdateTester](http://hits.dwyl.com/mooniljoo/https://githubcom/mooniljoo/update_tester.svg)](http://hits.dwyl.com/mooniljoo/https://githubcom/mooniljoo/update_tester)
 <!--
 **mooniljoo/mooniljoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
