@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://mooniljoo.github.io/)](https://mooniljoo.github.io/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minsu-kim-336289160/)](https://www.linkedin.com/in/oneweek/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://mooniljoo.tistory.com/)](https://mooniljoo.tistory.com/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minsu-kim-336289160/)](https://www.linkedin.com/in/oneweek/)
 
 - 💻 Junior WebDevelopers Interested in Web and Infrastructure
 - 💬 I think **great coordination** is my biggest strength.
