@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=mooniljoo&show_icons=true&hide_border=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=week-ends&show_icons=true&hide_border=true)
